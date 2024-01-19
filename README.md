@@ -1,6 +1,8 @@
 # FairShare<br>
 Demo Link: <a href="https://fair-share-vert.vercel.app/">[https://fairshare22.netlify.app]/</a>
+<br>
 <b>This code is use for the purpose of deploy.</b>
+<br>
 Main source Code Link:<a href="https://github.com/FairShare-Org/FairShare /">https://github.com/FairShare-Org/FairShare/</a>
 <br>
 
